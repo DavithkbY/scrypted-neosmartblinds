@@ -1,5 +1,8 @@
 {
    "name": "@scrypted/neosmartblinds",
+   "version": "0.0.1",
+   "author": "Davit Hakobyan",
+   "license": "MIT",
    "scripts": {
       "scrypted-setup-project": "scrypted-setup-project",
       "prescrypted-setup-project": "scrypted-package-json",
@@ -15,10 +18,6 @@
    },
    "scrypted": {
       "name": "NeosmartBlinds",
-      "version": "1.0.0",
-      "author": "Davit Hakobyan",
-      "type": "DeviceProvider",
-      "license": "MIT",
       "interfaces": [
          "DeviceProvider",
          "DeviceCreator"
