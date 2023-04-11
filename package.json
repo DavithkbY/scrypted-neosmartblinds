@@ -15,6 +15,7 @@
    },
    "scrypted": {
       "name": "NeosmartBlinds",
+      "version": "0.0.1",
       "type": "DeviceProvider",
       "interfaces": [
          "DeviceProvider",
