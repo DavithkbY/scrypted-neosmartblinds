@@ -1,5 +1,5 @@
 {
-   "name": "@scrypted/vscode-typescript",
+   "name": "@scrypted/neosmartblinds",
    "scripts": {
       "scrypted-setup-project": "scrypted-setup-project",
       "prescrypted-setup-project": "scrypted-package-json",
