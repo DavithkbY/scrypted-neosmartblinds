@@ -3,6 +3,7 @@
    "version": "0.0.1",
    "author": "Davit Hakobyan",
    "license": "MIT",
+   "private": false,
    "scripts": {
       "scrypted-setup-project": "scrypted-setup-project",
       "prescrypted-setup-project": "scrypted-package-json",
