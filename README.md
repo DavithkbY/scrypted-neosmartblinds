@@ -1,0 +1,1 @@
+# Scrypted plugin for Neosmart Blinds
