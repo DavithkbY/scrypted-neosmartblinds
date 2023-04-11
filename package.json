@@ -16,7 +16,9 @@
    "scrypted": {
       "name": "NeosmartBlinds",
       "version": "0.0.1",
+      "author": "Davit Hakobyan",
       "type": "DeviceProvider",
+      "license": "MIT",
       "interfaces": [
          "DeviceProvider",
          "DeviceCreator"
